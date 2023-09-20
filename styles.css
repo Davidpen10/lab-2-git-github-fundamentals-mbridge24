@@ -6,6 +6,7 @@
     margin: auto;
     background-color: #BA4A00;
 }
+
 .view-box {
     font-family: 'Audiowide', sans-serif;
     background-color: #dcdbe1;
@@ -15,6 +16,7 @@
     width: 100%;
     height: 65%;
 }
+
 #btn {
     background-color: #F1C40F;
 }
